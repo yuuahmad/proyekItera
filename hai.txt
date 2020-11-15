@@ -1,0 +1,2 @@
+ini adalah percobaan untuk membuat sebuah catatan yang nantinya akan saya uabh sendiri kedepannya untuk melihat bagaimana perubahan yang terjadi pada commit
+dan bagaimana perubahan tersebut terjadi dan tertampilkan pada github.
