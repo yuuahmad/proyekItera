@@ -2,3 +2,5 @@ ini adalah percobaan untuk membuat sebuah catatan yang nantinya akan saya uabh s
 dan bagaimana perubahan tersebut terjadi dan tertampilkan pada github.
 
 karena github yang sekarang ini sangat berbeda pada github yang dulu, maka tampilannya akan sedikit berubah.
+
+dan ini adalah tulisan atau ketikan yang saya coba pada aplikasi vs code saya sendiri sebagai hal yang dapat dipantau
